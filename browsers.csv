@@ -1,0 +1,4 @@
+﻿browser_id,browser_name,engine,notes
+1,Safari,WebKit,No Safari extensions or adblocking enabled
+2,Brave,WebKit,Brave shields disabled
+3,Nadir,WebKit,Adblocking disabled
