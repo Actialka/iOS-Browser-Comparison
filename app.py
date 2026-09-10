@@ -57,17 +57,11 @@ def run_query(query: str) -> pd.DataFrame:
     return df
 
 # Header & Overview
-st.title("⚡ iOS Browser Performance Benchmark")
+st.header("⚡ iOS Browser Performance Benchmark")
 st.markdown("""
-A benchmarking study comparing Nadir, a minimalist, vibe-coded iOS web browser
+A benchmarking study comparing Nadir, a minimalist iOS web browser
 against **Apple Safari** and **Brave**. All tests were conducted under identical
 hardware and network conditions on iOS with ad-blocking disabled across all runs.
-""")
-
-## Motivation & Objective
-st.title("Motivation & Objective")
-st.markdown(""")
-    Most iOS browsers suffer from feature creep and visual bloat, while Safari carries long-standing UX constraints. To address this, I built Nadir — a streamlined, lightweight iOS browser focused strictly on core browsing speed and hardware efficiency.
 """)
 
 with st.sidebar:
