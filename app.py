@@ -1,4 +1,3 @@
-import sqlite3
 import pandas as pd
 import plotly.express as px
 import streamlit as st
@@ -64,6 +63,12 @@ against **Apple Safari** and **Brave**. All tests were conducted under identical
 hardware and network conditions on iOS with ad-blocking disabled across all runs.
 """)
 
+## Motivation & Objective
+st.title("Motivation & Objective")
+st.markdown(""")
+    Most iOS browsers suffer from feature creep and visual bloat, while Safari carries long-standing UX constraints. To address this, I built Nadir — a streamlined, lightweight iOS browser focused strictly on core browsing speed and hardware efficiency.
+""")
+
 with st.sidebar:
     st.title("Navigation")
     st.markdown("""
@@ -73,6 +78,8 @@ with st.sidebar:
     * [4. Methodology & Glossary](#methodology)
     """)
     st.divider()
+
+
 
 # Optional context or links
     st.markdown("### Links")
