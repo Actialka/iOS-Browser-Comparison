@@ -64,6 +64,10 @@ against **Apple Safari** and **Brave**. All tests were conducted under identical
 hardware and network conditions on iOS with ad-blocking disabled across all runs.
 """)
 
+with st.expander("📱 Watch Nadir in Action (Screen Recording)"):
+    st.video("nadir_demo.mp4")
+    st.caption("Native iOS client executing baseline tests under iOS 26.4.2.")
+
 with st.sidebar:
     st.title("Navigation")
     st.markdown("""

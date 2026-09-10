@@ -4,6 +4,11 @@ An interactive data dashboard evaluating client-side browser performance and har
 
 🔗 **Live Dashboard:** [View Streamlit Application](https://sophiafan-portfolio.streamlit.app/)
 
+## Native Client Preview
+---
+
+https://github.com/user-attachments/assets/a59f5f9b-fc87-4ebb-bc92-c73094e224dd 
+
 ## Motivation & Objective
 
 Most iOS browsers suffer from feature creep and visual bloat, while Safari carries long-standing UX constraints. To address this, I built Nadir - a streamlined, lightweight iOS browser focused strictly on core browsing speed and hardware efficiency. 
