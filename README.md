@@ -1,12 +1,12 @@
 # iOS Mobile Browser Performance Benchmark
 
-An interactive data dashboard evaluating client-side browser performance and hardware efficiency across **Nadir**, a custom lean iOS web browser, **Apple Safari**, and **Brave** on iOS 17.
+An interactive data dashboard evaluating client-side browser performance and hardware efficiency across **Nadir**, a custom lean iOS web browser, **Apple Safari**, and **Brave** on iOS 26.4.2.
 
 🔗 **Live Dashboard:** [View Streamlit Application](https://sophiafan-portfolio.streamlit.app/)
 
 ## Motivation & Objective
 
-Most iOS browsers suffer from feature creep and visual bloat, while Safari carries long-standing UX constraints. To address this, I built Nadir — a streamlined, lightweight iOS browser focused strictly on core browsing speed and hardware efficiency. 
+Most iOS browsers suffer from feature creep and visual bloat, while Safari carries long-standing UX constraints. To address this, I built Nadir - a streamlined, lightweight iOS browser focused strictly on core browsing speed and hardware efficiency. 
 
 ---
 
